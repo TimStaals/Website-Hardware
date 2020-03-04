@@ -17,9 +17,10 @@
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #00979d;
   display: block;
   transition: 0.3s;
+  font-weight: bold;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -35,7 +36,11 @@
   font-size: 36px;
   margin-left: 50px;
 }
-
+/* style logo arduino */
+.logo {
+  width: 200px;
+  margin: 10px 25px;
+}
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
 #main {
   transition: margin-left .5s;
