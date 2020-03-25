@@ -17,6 +17,22 @@
   left: 10px;
   color: #00979d;
 }
+#openmenu {
+  position: absolute;
+  top: 50%;
+  height: 50px;
+  width: 30px;
+  border: 2px Black solid;
+  border-radius: 0px 15px 15px 0px;
+  transform: translateY(-50%);
+  background-color: gray;
+  font-size: 25px;
+  text-align: center;
+  cursor: default;
+}
+#openmenu p {
+  margin-top: 6px;
+}
 /* The navigation menu links */
 .sidenav a {
   padding: 8px 8px 8px 32px;
