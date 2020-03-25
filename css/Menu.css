@@ -11,7 +11,28 @@
   padding-top: 60px; /* Place content 60px from the top */
   transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
 }
-
+.menu_footer {
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  color: #00979d;
+}
+#openmenu {
+  position: fixed;
+  top: 50%;
+  height: 50px;
+  width: 30px;
+  border: 2px Black solid;
+  border-radius: 0px 15px 15px 0px;
+  transform: translateY(-50%);
+  background-color: gray;
+  font-size: 25px;
+  text-align: center;
+  cursor: default;
+}
+#openmenu p {
+  margin-top: 6px;
+}
 /* The navigation menu links */
 .sidenav a {
   padding: 8px 8px 8px 32px;
