@@ -11,4 +11,6 @@ body {
     padding: 5px;
 }
 
-img
+img{
+    height: 200px;
+}
