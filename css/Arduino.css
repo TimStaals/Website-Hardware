@@ -6,10 +6,10 @@ body {
   background-image: url(../images/background-pattern.png);
 }
 .inhoud{
-    margin-left: 7.5%;
-    margin-right: 7.5%;
-    padding: 5px;
+  width: 60%;
+  margin: auto;
+  padding-top: 25px;
 }
 #bord{
-    height: 200px;
+  height: 200px;
 }
