@@ -5,3 +5,14 @@
 body {
   background-image: url(../images/background-pattern.png);
 }
+
+.inhoud{
+margin-left: 7.5%;
+margin-right: 7.5%;
+padding: 5px;
+text-align: center;
+}
+
+h1{
+  color: #00979C;
+}
